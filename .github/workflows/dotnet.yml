@@ -46,6 +46,26 @@ jobs:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
+      - name: Debug repo state
+        run: |
+                echo "=== ROOT ==="
+                ls -la
+                echo
+                echo "=== .github/workflows ==="
+                ls -la .github/workflows || true
+                echo
+                echo "=== HairWizard ==="
+                ls -la ./HairWizard
+                echo
+                echo "=== Find csproj ==="
+                find . -name "*.csproj"
+                echo
+                echo "=== Dockerfile content ==="
+                cat ./HairWizard/Dockerfile
+                echo
+                echo "=== .dockerignore content ==="
+                cat .dockerignore || true
+
       - name: Build and push
         uses: docker/build-push-action@v6
         with:
