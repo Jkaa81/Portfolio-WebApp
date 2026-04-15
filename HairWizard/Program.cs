@@ -24,7 +24,7 @@ namespace HairWizard
             builder.Services.AddScoped<ITreatmentRepository, TreatmentRepository>();
 
             //Add EF Core DI:
-            builder.Services.AddDbContext<HairWizardContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("HairWizardContext")));
+            builder.Services.AddDbContext<HairWizardContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             //Register Identity services
             builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = false).AddRoles<IdentityRole>().AddEntityFrameworkStores<HairWizardContext>();

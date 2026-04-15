@@ -2526,6 +2526,7 @@
           "lib/netcoreapp3.1/testhost.dll": {}
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.22.1": {},
       "Microsoft.VisualStudio.Web.CodeGeneration/8.0.23": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "8.0.1",
@@ -3906,6 +3907,7 @@
           "Microsoft.AspNetCore.Identity.UI": "8.0.26",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.26",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.23",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.22.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.23"
         },
         "runtime": {
@@ -6660,6 +6662,13 @@
       "sha512": "sha512-9ivcl/7SGRmOT0YYrHQGohWiT5YCpkmy/UEzldfVisLm6QxbLaK3FAJqZXI34rnRLmqqDCeMQxKINwmKwAPiDw==",
       "path": "microsoft.testplatform.testhost/17.8.0",
       "hashPath": "microsoft.testplatform.testhost.17.8.0.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.22.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EfYANhAWqmWKoLwN6bxoiPZSOfJSO9lzX+UrU6GVhLhPub1Hd+5f0zL0/tggIA6mRz6Ebw2xCNcIsM4k+7NPng==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.22.1",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
     },
     "Microsoft.VisualStudio.Web.CodeGeneration/8.0.23": {
       "type": "package",
