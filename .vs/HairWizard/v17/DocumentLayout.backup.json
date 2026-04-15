@@ -202,8 +202,7 @@
               "RelativeToolTip": "HairWizard\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T01:38:05.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T01:38:05.368Z"
             },
             {
               "$type": "Document",
@@ -215,8 +214,7 @@
               "RelativeToolTip": "HairWizard\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T01:37:54.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T01:37:54.853Z"
             },
             {
               "$type": "Document",
@@ -241,8 +239,7 @@
               "RelativeToolTip": "HairWizard\\Services\\BookingResult.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T01:18:23.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T01:18:23.339Z"
             },
             {
               "$type": "Document",
@@ -254,8 +251,7 @@
               "RelativeToolTip": "Tests\\BookingServiceTests.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAuwGgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T01:00:21.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T01:00:21.043Z"
             },
             {
               "$type": "Document",
@@ -267,8 +263,7 @@
               "RelativeToolTip": "HairWizard\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-14T22:34:32.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T22:34:32.582Z"
             },
             {
               "$type": "Document",
@@ -280,8 +275,7 @@
               "RelativeToolTip": "HairWizard\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-14T22:34:25.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T22:34:25.668Z"
             },
             {
               "$type": "Document",
@@ -293,8 +287,7 @@
               "RelativeToolTip": "HairWizard\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T22:34:07.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T22:34:07.077Z"
             },
             {
               "$type": "Document",
@@ -306,8 +299,7 @@
               "RelativeToolTip": "HairWizard\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAAEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-14T22:23:57.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T22:23:57.781Z"
             },
             {
               "$type": "Document",
@@ -319,8 +311,7 @@
               "RelativeToolTip": "HairWizard\\Migrations\\20260414221604_AddCustomerFieldsToApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T22:16:05.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T22:16:05.038Z"
             },
             {
               "$type": "Document",
@@ -332,8 +323,7 @@
               "RelativeToolTip": "HairWizard\\Data\\HairWizardContext.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAowFYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T22:12:48.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T22:12:48.577Z"
             },
             {
               "$type": "Document",
@@ -345,8 +335,7 @@
               "RelativeToolTip": "HairWizard\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAApwEwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T22:05:28.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T22:05:28.837Z"
             },
             {
               "$type": "Document",
@@ -358,8 +347,7 @@
               "RelativeToolTip": "HairWizard\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-14T22:03:45.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T22:03:45.871Z"
             },
             {
               "$type": "Document",
@@ -371,8 +359,7 @@
               "RelativeToolTip": "HairWizard\\Persistence\\EmployeeRepository.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAswDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T21:55:34.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:55:34.414Z"
             },
             {
               "$type": "Document",
@@ -384,8 +371,7 @@
               "RelativeToolTip": "HairWizard\\Services\\CustomerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T21:54:36.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:54:36.165Z"
             },
             {
               "$type": "Document",
@@ -397,8 +383,7 @@
               "RelativeToolTip": "HairWizard\\Interfaces\\ICostumerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T21:54:14.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:54:14.788Z"
             },
             {
               "$type": "Document",
@@ -410,8 +395,7 @@
               "RelativeToolTip": "HairWizard\\Persistence\\CustomerRepository.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAA+wA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T21:53:51.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:53:51.281Z"
             },
             {
               "$type": "Document",
@@ -423,8 +407,7 @@
               "RelativeToolTip": "HairWizard\\Migrations\\20260414215037_CustomerDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T21:50:37.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:50:37.864Z"
             },
             {
               "$type": "Document",
@@ -436,8 +419,7 @@
               "RelativeToolTip": "HairWizard\\Views\\Customers\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-14T21:46:16.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:46:16.322Z"
             },
             {
               "$type": "Document",
@@ -449,8 +431,7 @@
               "RelativeToolTip": "HairWizard\\Controllers\\CustomersController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T21:44:14.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:44:14.725Z"
             },
             {
               "$type": "Document",
@@ -462,8 +443,7 @@
               "RelativeToolTip": "HairWizard\\ViewModels\\CustomerDetailsViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T21:41:52.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:41:52.39Z"
             },
             {
               "$type": "Document",
@@ -475,8 +455,7 @@
               "RelativeToolTip": "HairWizard\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-14T21:34:48.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:34:48.976Z"
             },
             {
               "$type": "Document",
@@ -488,8 +467,7 @@
               "RelativeToolTip": "HairWizard\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T21:33:57.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:33:57.868Z"
             },
             {
               "$type": "Document",
@@ -501,8 +479,7 @@
               "RelativeToolTip": "HairWizard\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T21:30:24.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:30:24.713Z"
             },
             {
               "$type": "Document",
@@ -514,8 +491,7 @@
               "RelativeToolTip": "HairWizard\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAD0AAAAAAAAAAAAUwGAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-04-14T21:18:03.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:18:03.044Z"
             },
             {
               "$type": "Document",
@@ -527,8 +503,7 @@
               "RelativeToolTip": "HairWizard\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T21:09:48.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:09:48.659Z"
             },
             {
               "$type": "Document",
@@ -540,8 +515,7 @@
               "RelativeToolTip": "HairWizard\\Models\\Booking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T21:08:48.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:08:48.687Z"
             },
             {
               "$type": "Document",
@@ -553,8 +527,7 @@
               "RelativeToolTip": "HairWizard\\Views\\Bookings\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-14T21:03:24.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T21:03:24.834Z"
             },
             {
               "$type": "Document",
@@ -566,8 +539,7 @@
               "RelativeToolTip": "HairWizard\\Migrations\\20260414205833_AddTreatments.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T20:58:34.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T20:58:34.133Z"
             },
             {
               "$type": "Document",
@@ -590,8 +562,7 @@
               "RelativeToolTip": "HairWizard\\Persistence\\BookingRepository.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T20:51:52.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T20:51:52.729Z"
             },
             {
               "$type": "Document",
@@ -603,8 +574,7 @@
               "RelativeToolTip": "HairWizard\\Models\\Treatment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T20:50:31.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T20:50:31.716Z"
             },
             {
               "$type": "Document",
@@ -616,8 +586,7 @@
               "RelativeToolTip": "HairWizard\\Views\\Bookings\\Index.cshtml",
               "ViewState": "AgIAAA0AAAAAAAAAAAAmwCcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-14T20:49:55.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T20:49:55.703Z"
             },
             {
               "$type": "Document",
@@ -629,8 +598,7 @@
               "RelativeToolTip": "HairWizard\\Interfaces\\ITreatmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T20:46:21.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T20:46:21.785Z"
             },
             {
               "$type": "Document",
@@ -642,8 +610,7 @@
               "RelativeToolTip": "HairWizard\\Persistence\\TreatmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T20:44:43.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T20:44:43.037Z"
             },
             {
               "$type": "Document",
@@ -655,8 +622,7 @@
               "RelativeToolTip": "HairWizard\\Controllers\\BookingsController.cs",
               "ViewState": "AgIAAG0AAAAAAAAAAAAIwIgAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T20:41:08.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T20:41:08.034Z"
             },
             {
               "$type": "Document",
@@ -668,8 +634,7 @@
               "RelativeToolTip": "HairWizard\\Services\\BookingService.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAiwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T20:36:17.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T20:36:17.04Z"
             },
             {
               "$type": "Document",
@@ -681,8 +646,7 @@
               "RelativeToolTip": "HairWizard\\Views\\Bookings\\_Booking.cshtml",
               "ViewState": "AgIAABYAAAAAAAAAAAAwwDgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-14T19:50:46.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T19:50:46.603Z"
             }
           ]
         },
