@@ -2,9 +2,9 @@ name: .NET + Docker
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
 
 jobs:
   test:
@@ -46,6 +46,26 @@ jobs:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
+      - name: Debug repo state
+        run: |
+          echo "=== ROOT ==="
+          ls -la
+          echo
+          echo "=== .github/workflows ==="
+          ls -la .github/workflows || true
+          echo
+          echo "=== HairWizard ==="
+          ls -la ./HairWizard
+          echo
+          echo "=== Find csproj ==="
+          find . -name "*.csproj"
+          echo
+          echo "=== Dockerfile content ==="
+          cat ./HairWizard/Dockerfile
+          echo
+          echo "=== .dockerignore content ==="
+          cat .dockerignore || true
+
       - name: Build and push
         uses: docker/build-push-action@v6
         with:
@@ -53,3 +73,30 @@ jobs:
           file: ./HairWizard/Dockerfile
           push: true
           tags: jkaa81/hairwizard-repo:latest
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: docker
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+
+    steps:
+      - name: Deploy to droplet
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: 206.189.2.31
+          username: root
+          key: ${{ secrets.DO_SSH_KEY }}
+          port: 22
+          debug: true
+          script: |
+            docker pull jkaa81/hairwizard-repo:latest
+            docker stop hairwizard || true
+            docker rm hairwizard || true
+            docker run -d \
+              --name hairwizard \
+              --restart unless-stopped \
+              -e ASPNETCORE_URLS=http://+:8080 \
+              -e ConnectionStrings__DefaultConnection='${{ secrets.DB_CONNECTION }}' \
+              -v hairwizard_data:/app/data \
+              -p 8080:8080 \
+              jkaa81/hairwizard-repo:latest
