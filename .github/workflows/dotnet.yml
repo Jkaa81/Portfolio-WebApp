@@ -96,5 +96,7 @@ jobs:
               --name hairwizard \
               --restart unless-stopped \
               -e ASPNETCORE_URLS=http://+:8080 \
+              -e ConnectionStrings__DefaultConnection='${{ secrets.DB_CONNECTION }}' \
+              -v hairwizard_data:/app/data \
               -p 8080:8080 \
               jkaa81/hairwizard-repo:latest
