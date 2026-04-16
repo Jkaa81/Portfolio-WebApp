@@ -83,10 +83,10 @@ jobs:
       - name: Deploy to droplet
         uses: appleboy/ssh-action@v1.0.3
         with:
-          host: 206.189.2.31
-          username: root
+          host: ${{ secrets.DO_HOST }}
+          username: ${{ secrets.DO_USERNAME }}
           key: ${{ secrets.DO_SSH_KEY }}
-          port: 22
+          port: ${{ secrets.DO_PORT }}
           debug: true
           script: |
             docker pull jkaa81/hairwizard-repo:latest
